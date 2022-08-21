@@ -30,7 +30,4 @@ FakeNews dectection experiment involves the following steps.
   8. Predict on the test data
   9. Evaluate the predictions on the test data
 
-### Build your own Fake News Detector
 
-1. Run Jupyter notebook **'FakeNewsDetection-starter.ipynb'** for starter solution on FakeNewsDetection data
-2. Run Jupyter notebook **'FakeNewsDetection-analysis.ipynb'** for detailed analysis on FakeNewsDetection data
